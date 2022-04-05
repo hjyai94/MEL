@@ -1,4 +1,4 @@
-# Mutual Learning with Consensus Dice Loss for Brain Tumor Segmentation
+# Mutual Ensemble Learning for Brain Tumor Segmentation
 > This repository is the work of "Mutual Ensemble Learning for Brain Tumor Segmentation" based on pytorch implementation.
 
 
